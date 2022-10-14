@@ -12,7 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1665734666,,"wq!"
+|2,0,1665739761,,"wq!"
+:q!
+|2,0,1665737526,,"q!"
 
 # Search String History (newest to oldest):
 
@@ -25,26 +27,161 @@
 # Registers:
 
 # File marks:
-'0  10  4  ~/sampleee
-|4,48,10,4,1665734666,"~/sampleee"
-'1  2  16  ~/f1.txt
-|4,49,2,16,1665634652,"~/f1.txt"
+'0  1  0  ~/project1/std
+|4,48,1,0,1665739761,"~/project1/std"
+'1  8  6  ~/project1/README.md
+|4,49,8,6,1665737581,"~/project1/README.md"
+'2  2  0  ~/project1/plot.log
+|4,50,2,0,1665737526,"~/project1/plot.log"
+'3  10  4  ~/sampleee
+|4,51,10,4,1665734666,"~/sampleee"
+'4  2  16  ~/f1.txt
+|4,52,2,16,1665634652,"~/f1.txt"
 
 # Jumplist (newest first):
+-'  1  0  ~/project1/std
+|4,39,1,0,1665739761,"~/project1/std"
+-'  8  6  ~/project1/README.md
+|4,39,8,6,1665737581,"~/project1/README.md"
+-'  8  6  ~/project1/README.md
+|4,39,8,6,1665737581,"~/project1/README.md"
+-'  1  0  ~/project1/README.md
+|4,39,1,0,1665737546,"~/project1/README.md"
+-'  1  0  ~/project1/README.md
+|4,39,1,0,1665737546,"~/project1/README.md"
+-'  2  0  ~/project1/plot.log
+|4,39,2,0,1665737526,"~/project1/plot.log"
+-'  2  0  ~/project1/plot.log
+|4,39,2,0,1665737526,"~/project1/plot.log"
+-'  2  0  ~/project1/plot.log
+|4,39,2,0,1665737526,"~/project1/plot.log"
+-'  2  0  ~/project1/plot.log
+|4,39,2,0,1665737526,"~/project1/plot.log"
+-'  1  0  ~/project1/plot.log
+|4,39,1,0,1665737509,"~/project1/plot.log"
+-'  1  0  ~/project1/plot.log
+|4,39,1,0,1665737509,"~/project1/plot.log"
+-'  1  0  ~/project1/plot.log
+|4,39,1,0,1665737509,"~/project1/plot.log"
+-'  1  0  ~/project1/plot.log
+|4,39,1,0,1665737509,"~/project1/plot.log"
 -'  10  4  ~/sampleee
 |4,39,10,4,1665734666,"~/sampleee"
+-'  10  4  ~/sampleee
+|4,39,10,4,1665734666,"~/sampleee"
+-'  10  4  ~/sampleee
+|4,39,10,4,1665734666,"~/sampleee"
+-'  10  4  ~/sampleee
+|4,39,10,4,1665734666,"~/sampleee"
+-'  10  4  ~/sampleee
+|4,39,10,4,1665734666,"~/sampleee"
+-'  10  4  ~/sampleee
+|4,39,10,4,1665734666,"~/sampleee"
+-'  10  4  ~/sampleee
+|4,39,10,4,1665734666,"~/sampleee"
+-'  10  4  ~/sampleee
+|4,39,10,4,1665734666,"~/sampleee"
+-'  1  0  ~/sampleee
+|4,39,1,0,1665734623,"~/sampleee"
+-'  1  0  ~/sampleee
+|4,39,1,0,1665734623,"~/sampleee"
+-'  1  0  ~/sampleee
+|4,39,1,0,1665734623,"~/sampleee"
+-'  1  0  ~/sampleee
+|4,39,1,0,1665734623,"~/sampleee"
+-'  1  0  ~/sampleee
+|4,39,1,0,1665734623,"~/sampleee"
+-'  1  0  ~/sampleee
+|4,39,1,0,1665734623,"~/sampleee"
+-'  1  0  ~/sampleee
+|4,39,1,0,1665734623,"~/sampleee"
 -'  1  0  ~/sampleee
 |4,39,1,0,1665734623,"~/sampleee"
 -'  2  16  ~/f1.txt
 |4,39,2,16,1665634652,"~/f1.txt"
 -'  2  16  ~/f1.txt
 |4,39,2,16,1665634652,"~/f1.txt"
+-'  2  16  ~/f1.txt
+|4,39,2,16,1665634652,"~/f1.txt"
+-'  2  16  ~/f1.txt
+|4,39,2,16,1665634652,"~/f1.txt"
+-'  2  16  ~/f1.txt
+|4,39,2,16,1665634652,"~/f1.txt"
+-'  2  16  ~/f1.txt
+|4,39,2,16,1665634652,"~/f1.txt"
+-'  2  16  ~/f1.txt
+|4,39,2,16,1665634652,"~/f1.txt"
+-'  2  16  ~/f1.txt
+|4,39,2,16,1665634652,"~/f1.txt"
+-'  2  16  ~/f1.txt
+|4,39,2,16,1665634652,"~/f1.txt"
+-'  2  16  ~/f1.txt
+|4,39,2,16,1665634652,"~/f1.txt"
+-'  2  16  ~/f1.txt
+|4,39,2,16,1665634652,"~/f1.txt"
+-'  2  16  ~/f1.txt
+|4,39,2,16,1665634652,"~/f1.txt"
+-'  2  16  ~/f1.txt
+|4,39,2,16,1665634652,"~/f1.txt"
+-'  2  16  ~/f1.txt
+|4,39,2,16,1665634652,"~/f1.txt"
+-'  2  16  ~/f1.txt
+|4,39,2,16,1665634652,"~/f1.txt"
+-'  2  16  ~/f1.txt
+|4,39,2,16,1665634652,"~/f1.txt"
+-'  1  0  ~/f1.txt
+|4,39,1,0,1665634593,"~/f1.txt"
+-'  1  0  ~/f1.txt
+|4,39,1,0,1665634593,"~/f1.txt"
+-'  1  0  ~/f1.txt
+|4,39,1,0,1665634593,"~/f1.txt"
+-'  1  0  ~/f1.txt
+|4,39,1,0,1665634593,"~/f1.txt"
+-'  1  0  ~/f1.txt
+|4,39,1,0,1665634593,"~/f1.txt"
+-'  1  0  ~/f1.txt
+|4,39,1,0,1665634593,"~/f1.txt"
+-'  1  0  ~/f1.txt
+|4,39,1,0,1665634593,"~/f1.txt"
+-'  1  0  ~/f1.txt
+|4,39,1,0,1665634593,"~/f1.txt"
+-'  1  0  ~/f1.txt
+|4,39,1,0,1665634593,"~/f1.txt"
+-'  1  0  ~/f1.txt
+|4,39,1,0,1665634593,"~/f1.txt"
+-'  1  0  ~/f1.txt
+|4,39,1,0,1665634593,"~/f1.txt"
+-'  1  0  ~/f1.txt
+|4,39,1,0,1665634593,"~/f1.txt"
+-'  1  0  ~/f1.txt
+|4,39,1,0,1665634593,"~/f1.txt"
+-'  1  0  ~/f1.txt
+|4,39,1,0,1665634593,"~/f1.txt"
 -'  1  0  ~/f1.txt
 |4,39,1,0,1665634593,"~/f1.txt"
 -'  1  0  ~/f1.txt
 |4,39,1,0,1665634593,"~/f1.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/project1/std
+	*	1665739755	0
+	"	1	0
+	^	3	9
+	.	3	9
+	+	3	9
+
+> ~/project1/README.md
+	*	1665737577	0
+	"	8	6
+	^	8	7
+	.	8	7
+	+	8	7
+
+> ~/project1/plot.log
+	*	1665737521	0
+	"	2	0
+	^	2	0
 
 > ~/sampleee
 	*	1665734657	0
